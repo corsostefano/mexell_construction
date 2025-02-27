@@ -55,7 +55,7 @@ header p {
 .info h2 {
     font-size: 2rem;
     margin-bottom: 15px;
-    color: #4d6bfe; /* Azul oscuro para títulos */
+    color: #00558c; /* Azul oscuro para títulos */
 }
 
 .info p {
@@ -75,7 +75,7 @@ header p {
 .contact h2 {
     font-size: 2rem;
     margin-bottom: 15px;
-    color: #4d6bfe; /* Azul oscuro para títulos */
+    color: #00558c; /* Azul oscuro para títulos */
 }
 
 .contact ul {
@@ -94,7 +94,7 @@ header p {
 }
 
 .contact ul li i {
-    color: #4d6bfe; /* Azul oscuro para los iconos */
+    color: #00558c; /* Azul oscuro para los iconos */
 }
 
 /* Estilos para el mapa */
@@ -105,7 +105,7 @@ header p {
 .map h2 {
     font-size: 2rem;
     margin-bottom: 15px;
-    color: #4d6bfe; /* Azul oscuro para títulos */
+    color: #00558c; /* Azul oscuro para títulos */
     text-align: center;
 }
 
